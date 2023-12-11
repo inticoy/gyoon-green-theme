@@ -1,6 +1,9 @@
 {
   "name": "gyoon-green-theme",
   "displayName": "Gyoon green theme",
+  "publisher": "inticoy",
+  "icon": "images/green.png",
+  "repository": "https://github.com/inticoy/gyoon-green-theme",
   "description": "Ultimate eye-comfortable green theme specially compatible with c/c++ codes.",
   "version": "0.0.1",
   "engines": {
