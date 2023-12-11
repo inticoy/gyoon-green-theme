@@ -1,0 +1,21 @@
+{
+  "name": "gyoon-green-theme",
+  "displayName": "Gyoon green theme",
+  "description": "Ultimate eye-comfortable green theme specially compatible with c/c++ codes.",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.4.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Gyoon green theme",
+        "uiTheme": "vs",
+        "path": "./themes/Gyoon green theme-color-theme.json"
+      }
+    ]
+  }
+}
